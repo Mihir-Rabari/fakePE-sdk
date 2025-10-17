@@ -5,13 +5,13 @@ Official Node.js SDK for FakePE Payment Gateway - A Razorpay-inspired mock payme
 ## 🚀 Installation
 
 ```bash
-npm install @fakepe/sdk
+npm install fakepe-sdk
 ```
 
 ## 📦 Quick Start
 
 ```javascript
-const FakePE = require('@fakepe/sdk');
+const FakePE = require('fakepe-sdk');
 
 const fakepe = new FakePE({
   key_id: 'your_key_id',
@@ -241,7 +241,7 @@ try {
 
 ## 🔗 Related Projects
 
-- **Main API**: [fake-pe](https://github.com/Mihir-Rabari/fake-pe)
+- **Main SDK**: [fakepe-sdk](https://github.com/Mihir-Rabari/fakePE-sdk) - NPM Package
 - **User App**: [fakePE-user-app](https://github.com/Mihir-Rabari/fakePE-user-app)
 
 ## ⚠️ Disclaimer

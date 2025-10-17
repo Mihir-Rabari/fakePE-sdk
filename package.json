@@ -1,5 +1,5 @@
 {
-  "name": "@fakepe/sdk",
+  "name": "fakepe-sdk",
   "version": "1.0.0",
   "description": "Official Node.js SDK for FakePE Payment Gateway - A Razorpay-inspired mock payment system",
   "main": "lib/index.js",
