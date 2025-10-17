@@ -1,6 +1,10 @@
-# @fakepe/sdk
+# fakepe-sdk
 
 Official Node.js SDK for FakePE Payment Gateway - A Razorpay-inspired mock payment system for testing and development.
+
+[![npm version](https://img.shields.io/npm/v/fakepe-sdk.svg)](https://www.npmjs.com/package/fakepe-sdk)
+[![npm downloads](https://img.shields.io/npm/dm/fakepe-sdk.svg)](https://www.npmjs.com/package/fakepe-sdk)
+[![license](https://img.shields.io/npm/l/fakepe-sdk.svg)](https://github.com/Mihir-Rabari/fakePE-sdk/blob/main/LICENSE)
 
 ## 🚀 Installation
 

@@ -1,6 +1,6 @@
 {
   "name": "fakepe-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official Node.js SDK for FakePE Payment Gateway - A Razorpay-inspired mock payment system",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
