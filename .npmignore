@@ -1,0 +1,28 @@
+# Examples
+examples/
+
+# Tests
+tests/
+*.test.js
+*.spec.js
+
+# Development files
+.github/
+.vscode/
+.idea/
+
+# Documentation (keep only README)
+docs/
+
+# Git
+.git/
+.gitignore
+
+# Environment
+.env
+.env.*
+
+# Misc
+*.md
+!README.md
+!LICENSE
